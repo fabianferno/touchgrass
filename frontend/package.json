@@ -34,7 +34,7 @@
     "mapbox-gl": "^3.15.0",
     "meshline": "^3.3.1",
     "mongoose": "^8.19.2",
-    "next": "15.5.6",
+    "next": "15.5.9",
     "openai": "^6.6.0",
     "pino-pretty": "^13.1.2",
     "react": "19.1.0",
